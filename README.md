@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Diogo and I'm a Software and Computer Engineering Student at the Universidade do Minho from Braga, Portugal.<br>O meu nome é Diogo e sou estudante de Engenharia Informática na Universidade do Minho, em Braga, Portugal.</p>
+<p align="center">My name is Diogo and I'm a Software Engineering Student at the Universidade do Minho from Braga, Portugal.<br>O meu nome é Diogo e sou estudante de Engenharia Informática na Universidade do Minho, em Braga, Portugal.</p>
 
 ###
 
