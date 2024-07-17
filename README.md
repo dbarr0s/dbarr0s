@@ -41,9 +41,11 @@
 </div>
 
 ###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/dbarr0s/dbarr0s/output/snake.svg" alt="Snake animation" />
 </div>
+
 ###
 
 <div align="center">
